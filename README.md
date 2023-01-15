@@ -1,4 +1,4 @@
-# Study-On-Alexa-Skills-regarding-Invocation
+# Study-On-Alexa-Skills-Regarding-Invocation
 
 This holds code to a Home Skill Lambda that does not hold any physical IoT device. 
 
